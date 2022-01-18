@@ -22,3 +22,14 @@ This is an unofficial collection of links and documentation maintained from time
 ## MARTe Utilities and Related Ecosystem.
 
 1. https://mdsplus.org/index.php/Introduction
+
+## Future Ecosystem Tools to Evaluation
+
+1. Kafka
+2. https://www.alex-spataru.com/blog/introducing-serial-studio
+3. Block style programming environments for outreach / demonstration
+4. https://www.alex-spataru.com/blog/introducing-serial-studio
+5. GNUradio
+6. Sigrok
+7. SEAPATH
+
