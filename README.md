@@ -33,4 +33,5 @@ involved in supporting, developing and deploying MARTe and related technologies.
 5. GNUradio
 6. Sigrok
 7. SEAPATH
+8. GTKwave
 
