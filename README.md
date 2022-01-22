@@ -1,11 +1,12 @@
-# marte-misc
-An informal collection of MARTe related information, documentation, examples and the like.
+# UN of MARTe
+An unofficial collection of MARTe related information, documentation, examples and the like.
 
 MARTe is the Multithreaded Application for Real-Time execution.  It is an open source collection of C++ libraries
 which form a framework for developing high performance deterministic control systems using a DSL/component approach.
 The work comes out of Nuclear Fusion research but the tool is of very general applicability.
 
-This is an unofficial collection of links and documentation maintained from time to time by a MARTe enthusiast.
+The opinions on this site are private and do not reflect the position of any of the other organisations which are
+involved in supporting, developing and deploying MARTe and related technologies.
 
 ## MARTe Documentation.
 
